@@ -51,6 +51,7 @@ a :hover{
 
   /* hero space */
 
+
   .herospace{
     position: absolute;
     width: 100%;
@@ -60,9 +61,10 @@ a :hover{
     padding: 25px;
     z-index: 11;
 }
+
 .name{
     position: relative;
-    margin-top: 16%;
+    margin-top: 10%;
     margin-left: 5%;
     display: flex;
     flex-direction: column;
@@ -269,42 +271,42 @@ justify-content: center;
 }
 /* footer */
     
+
 }
-  .bottom{
-   
-    position: absolute;
-    width: 100%;
-    height: 200px;
-    display: flex;
-    background-color:white;
-    padding: 25px 25px 25px 25px;
-    margin-top: 5%;
-    z-index: 11;
-   
-  
+.bottom{
+ 
+  position: absolute;
+  width: 100%;
+  height: 200px;
+  display: flex;
+  background-color:white;
+  padding: 25px 25px 25px 25px;
+  margin-top: 5%;
+  z-index: 11;
+ 
+
 }
 
 .socialmedia{
-    display: flex;
-    flex-direction: row;
-   padding-left: 8%;
-   padding-top: 10%;
-   margin: auto;
+  display: flex;
+  flex-direction: row;
+ padding-left: 8%;
+ padding-top: 10%;
+ margin: auto;
 }
 .img{
-    padding-left: 15px;
-    height: 50px;
-    width: auto;
+  padding-left: 15px;
+  height: 50px;
+  width: auto;
 }
 .copyright{
-    padding-top: 20px;
-    padding-left: 8.9%;
-    padding-bottom: 5%;
-    font-family: Helvetica, sans-serif;
-    font-weight: 100;
-    font-size: 16px;
+  padding-top: 20px;
+  padding-left: 8.9%;
+  padding-bottom: 5%;
+  font-family: Helvetica, sans-serif;
+  font-weight: 100;
+  font-size: 16px;
 }
-
 
 
 
